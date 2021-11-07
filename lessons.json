@@ -1,7 +1,7 @@
 [
     {
         "id_lesson": 1,
-        "name_lesson": "Học đếm 1-10, Kênh Thiếu Nhi VOITV",
+        "name_lesson": "Học đếm, Học đếm 1-10, Kênh Thiếu Nhi VOITV",
         "key": "F7Knymx-u_4",
         "image": "assets/images/homepage/hocdem1-10.png",
         "id_Game": 1,
@@ -11,7 +11,7 @@
     },
     {
         "id_lesson": 2,
-        "name_lesson": "Toán cộng trong phạm vi 10, Kênh Thanh Nấm - Video học trực tuyến dành cho bé",
+        "name_lesson": "Toán cộng, Toán cộng trong phạm vi 10, Kênh Thanh Nấm - Video học trực tuyến dành cho bé",
         "key": "ND8a3Zkq22w",
         "image": "assets/images/homepage/cong10.png",
         "id_Game": 2,
@@ -21,7 +21,7 @@
     },
     {
         "id_lesson": 3,
-        "name_lesson": "Toán trừ phạm vi 10, Kênh Thanh Nấm - Video học trực tuyến dành cho bé",
+        "name_lesson": "Toán trừ, Toán trừ phạm vi 10, Kênh Thanh Nấm - Video học trực tuyến dành cho bé",
         "key": "H32_nhyH1mk",
         "image": "assets/images/homepage/tru10.png",
         "id_Game": 3,
@@ -31,7 +31,7 @@
     },
     {
         "id_lesson": 4,
-        "name_lesson": "Phân biệt số chẳn và số lẻ, Kênh Vui cùng MathKids",
+        "name_lesson": "Chẳn-lẻ, Phân biệt số chẳn và số lẻ, Kênh Vui cùng MathKids",
         "key": "o5ozCvyVQu4",
         "image": "assets/images/homepage/chanle.png",
         "id_Game": 4,
@@ -41,7 +41,7 @@
     },
     {
         "id_lesson": 5,
-        "name_lesson": "Các phép so sánh, Kênh Thanh Nấm - Video học trực tuyến dành cho bé",
+        "name_lesson": "So sánh, Các phép so sánh, Kênh Thanh Nấm - Video học trực tuyến dành cho bé",
         "key": "LNQffeDRxlM",
         "image": "assets/images/homepage/sosanh.jpg",
         "id_Game": 5,
@@ -51,7 +51,7 @@
     },
     {
         "id_lesson": 6,
-        "name_lesson": "Nhận dạng hình học, Kênh Oh My Genius Vietnam - nhạc thiếu nhi hay nhất",
+        "name_lesson": "Hình học, Nhận dạng hình học, Kênh Oh My Genius Vietnam - nhạc thiếu nhi hay nhất",
         "key": "ZT_8SfY0884",
         "image": "assets/images/homepage/hinhhoc.png",
         "id_Game": 6,
